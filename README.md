@@ -1,6 +1,7 @@
 Yello, I'm Bba  
 
 I write words that computer read
+
 Currently learning to be a **Full Stack Developer**  
 ---
 
