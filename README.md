@@ -7,8 +7,11 @@ should do and why, the LLM hallucinates and I prompt.
 
 I casually code roblox games for paper or for fun
 
-**[nopoly](https://github.com/bba5696/nopoly)** - real-time multiplayer board
+**[Nopoly](https://github.com/bba5696/nopoly)** - real-time multiplayer board
 game for a private friend group. Authoritative Node game engine, Socket.IO,
 self-hosted on a free-tier VM.
+
+**[Allied](https://github.com/bba5696/allied)** - A mod re-imagining teams, 
+an all in one mod with essential team features for fabric
 
 <sub>Lua · JavaScript · Node · React · Next.js · Python · Tailwind · Supabase</sub>
