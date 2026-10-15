@@ -14,4 +14,7 @@ self-hosted on a free-tier VM.
 **[Allied](https://github.com/bba5696/allied)** - A mod re-imagining teams, 
 an all in one mod with essential team features for fabric
 
+**[Phantom](https://github.com/bba5696/phantom)** - A tauri app that automates
+education perfect featuring spoofing, auto injection and more
+
 <sub>Lua · JavaScript · Node · React · Next.js · Python · Tailwind · Supabase</sub>
