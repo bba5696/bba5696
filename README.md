@@ -17,4 +17,7 @@ an all in one mod with essential team features for fabric
 **[Phantom](https://github.com/bba5696/phantom)** - A tauri app that automates
 education perfect featuring spoofing, auto injection and more
 
+**[Sentral Bot](https://github.com/bba5696/sentral-discord-bot)** - A discord bot that scrapes 
+the sentral API for attendance, timetable, reports and more.
+
 <sub>Lua · JavaScript · Node · React · Next.js · Python · Tailwind · Supabase</sub>
